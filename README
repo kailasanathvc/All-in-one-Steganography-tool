@@ -2,7 +2,7 @@
 
 A powerful image steganography tool built with Python that lets you hide files in images, detect hidden data, extract it, and view hidden file properties without opening the image. Packed as a standalone app for easy use — just download and run, no extra setup or requirements needed.
 
----
+--
 
 ## 🚀 Features
 
