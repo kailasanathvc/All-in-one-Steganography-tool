@@ -1,0 +1,49 @@
+# 🕵️‍♂️ All-in-One Image Steganography Tool
+
+A powerful image steganography tool built with Python that lets you hide files in images, detect hidden data, extract it, and view hidden file properties without opening the image. Packed as a standalone app for easy use — just download and run, no extra setup or requirements needed.
+
+---
+
+## 🚀 Features
+
+- 🔐 **Hide files** inside common image formats (e.g., PNG, JPG)  
+- 🧩 **Identify** whether an image contains hidden data  
+- 📂 **Extract** hidden files from steganographic images  
+- 🧾 **Preview file properties** without opening the hidden file  
+- 💡 Simple interface for ease of use  
+- 🖥️ Packaged as a standalone desktop application using PyInstaller  
+- ⚡ Fast, lightweight, and built entirely in Python  
+- 📦 **Download-and-go:** no Python or dependencies needed if using the packaged app  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**  
+- **Pillow** (for image processing)  
+- **Tkinter** *(if using GUI)*  
+- **PyInstaller** (for creating standalone executables)  
+- **os**, **sys**, and other standard libraries  
+
+---
+
+## 📦 Installation
+
+### 🔧 Requirements
+
+- If running from source: Python 3.7+ and dependencies (see below)  
+- If using the packaged app: **No requirements! Just download and run.**
+                   
+👤 Developer
+Kailasanath V C
+📧 Reach out on LinkedIn : "http://www.linkedin.com/in/kallasanathvc"
+
+### 📥 Steps
+
+#### From Source:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/all-in-one-steganography-tool.git
+cd all-in-one-steganography-tool
